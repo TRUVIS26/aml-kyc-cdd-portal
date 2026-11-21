@@ -141,4 +141,4 @@ All branches are created by Tech Lead. Builders commit to the active branch.
 ## Continuous improvement
 
 When you discover an improvement to this workflow in a downstream project, open a
-PR back to `truvis25/truvis-devos-team-`. The playbook evolves with usage.
+PR back to `TRUVIS26/truvis-devos-team-`. The playbook evolves with usage.
