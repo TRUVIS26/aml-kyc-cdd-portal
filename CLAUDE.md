@@ -60,7 +60,7 @@ Planning docs: see `docs/` folder.
 > **C-02 registration:** After applying migration 0005, enable the hook in:
 > Supabase Dashboard → Authentication → Hooks → Custom Access Token Hook → select `custom_access_token_hook`
 
-- Remote: `truvis25/aml-kyc-cdd-portal`
+- Remote: `TRUVIS26/aml-kyc-cdd-portal`
 - Feature branches should be pushed to `origin` and PRs opened against `main`
 
 ## Development Commands
